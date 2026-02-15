@@ -1,0 +1,5 @@
+python-invoke source: file-without-copyright-information
+python-invoke source: no-debian-changes
+python-invoke source: source-contains-prebuilt-windows-binary
+python-invoke source: source-is-missing
+python-invoke source: source-package-encodes-python-version
