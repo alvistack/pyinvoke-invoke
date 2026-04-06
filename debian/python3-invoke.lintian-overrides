@@ -1,0 +1,4 @@
+python3-invoke: copyright-without-copyright-notice
+python3-invoke: initial-upload-closes-no-bugs
+python3-invoke: no-manual-page
+python3-invoke: zero-byte-file-in-doc-directory
